@@ -107,7 +107,7 @@ def main():
                     import openai
 
                     # Set your OpenAI API key
-                    openai.api_key = "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"  # Replace with your API key
+                    openai.api_key = "OPENAI_API_KEY"  # Replace with your API key
 
                     # ...
 
